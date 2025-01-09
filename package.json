@@ -1,6 +1,6 @@
 {
   "name": "@easy-connect/inappbrowser",
-  "version": "6.9.32",
+  "version": "6.9.33",
   "description": "Capacitor plugin in app browser",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
