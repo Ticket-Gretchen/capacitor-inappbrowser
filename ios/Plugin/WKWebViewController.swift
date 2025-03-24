@@ -15,7 +15,7 @@ private let cookieKey = "Cookie"
 
 private struct UrlsHandledByApp {
     static var hosts = ["itunes.apple.com"]
-    static var schemes = ["tel", "mailto", "sms"]
+    static var schemes = ["tel", "mailto", "sms", "twint-extended", "twint-issuer1", "twint-issuer2", "twint-issuer3", "twint-issuer4", "twint-issuer5", "twint-issuer6", "twint-issuer7", "twint-issuer8", "twint-issuer9", "twint-issuer10", "twint-issuer11", "twint-issuer12", "twint-issuer13", "twint-issuer14", "twint-issuer15", "twint-issuer16", "twint-issuer17", "twint-issuer18", "twint-issuer19", "twint-issuer20", "twint-issuer21", "twint-issuer22", "twint-issuer23", "twint-issuer24", "twint-issuer25", "twint-issuer26", "twint-issuer27", "twint-issuer28", "twint-issuer29", "twint-issuer30", "twint-issuer31", "twint-issuer32", "twint-issuer33", "twint-issuer34", "twint-issuer35", "twint-issuer36", "twint-issuer37", "twint-issuer38", "twint-issuer39" ]
     static var blank = true
 }
 
